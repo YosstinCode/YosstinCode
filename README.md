@@ -3,6 +3,8 @@
 
 ## 🙋‍♂️ Sobre mí
 
+Especializado en tecnologías frontend. Me dedico a crear sitios y aplicaciones web que sean no solo funcionales sino también visualmente atractivas. Busco trabajar en proyectos emocionantes y desafiantes.
+
 ## 💪 Habilidades técnicas
 
 ## 🏆 Logros y reconocimientos
