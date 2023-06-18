@@ -1,15 +1,4 @@
-# Yosstin Castillo - Web Developer
-#### [🌐 Mi portafolio](enlace-al-portafolio) - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20px"> Mi linkedin](enlace-a-LinkedIn)
+Hey there! 👋
+I’m Yosstin Castillo Web Developer 👨‍💻 
 
-## 🙋‍♂️ Sobre mí
-
-Especializado en tecnologías frontend. Me dedico a crear sitios y aplicaciones web que sean no solo funcionales sino también visualmente atractivas. Busco trabajar en proyectos emocionantes y desafiantes.
-
-## 💪 Habilidades técnicas
-
-## 🏆 Logros y reconocimientos
-
-## 🚀 Proyectos personales
-
-## 📚 Educación
-
+I specialize in frontend technologies. I am dedicated to creating websites and web applications that are not only functional but also visually appealing. I am looking to work on exciting and challenging projects.
